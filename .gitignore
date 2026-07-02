@@ -1,0 +1,24 @@
+# Root dependencies
+node_modules
+
+# Frontend dependencies
+FrontEnd/node_modules
+
+# Backend dependencies
+BackEnd/node_modules
+
+# Environment files
+.env
+.env.*
+FrontEnd/.env
+BackEnd/.env
+
+# Build files
+FrontEnd/dist
+BackEnd/dist
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
