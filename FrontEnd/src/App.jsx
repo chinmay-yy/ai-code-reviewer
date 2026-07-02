@@ -42,7 +42,7 @@ function App() {
               style={{
                 fontFamily: '"Fira code", "Fira Mono", monospace',
                 fontSize: 16,
-                padding: "1.5rem",
+                padding: "0rem",
                 border: "1px solid #ddd",
                 borderRadius: "2.2rem",
                 height: "100%",
